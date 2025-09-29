@@ -114,7 +114,7 @@ export default function Task0923() {
                     className="object-cover rounded-lg mb-4"
                     unoptimized
                   />
-                  <h3 className=" text-lg text-center text-black text-left">
+                  <h3 className=" text-lg text-black text-left">
                     {product.name}
                   </h3>
                   <p className="text-gray-700 font-semibold">
